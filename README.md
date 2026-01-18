@@ -129,3 +129,5 @@ For the best Capstone presentation (keeping Voice features working), we recommen
 1.  Keep your backend running (`run_app.bat`).
 2.  The live Netlify site will connect to your local backend (as long as you are viewing it on your machine).
 3.  *Why not deploy backend?* Cloud servers (Render/Heroku) do not have microphones, so the "Server-Side Voice" feature would break.
+
+Github Link: https://github.com/BinhPhamTieSinger/Capstone_Project
