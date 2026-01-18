@@ -1,0 +1,98 @@
+1. Data visualization
+GENERATE ME LINE CHARTS WITH THESE DATA
+Monthly Sales Comparison for Three Products (in USD)
+Month	Product A	Product B	Product C
+January	12,000	10,500	9,000
+February	13,500	11,200	9,800
+March	15,000	12,000	10,600
+April	14,200	12,800	11,500
+May	16,800	13,600	12,400
+June	18,500	14,500	13,200
+July	20,000	15,300	14,000
+August	19,200	16,100	14,800
+September	21,000	17,000	15,600
+October	22,500	18,000	16,500
+November	24,000	19,200	17,600
+December	26,500	20,500	18,900
+X-axis: Month
+Y-axis: Sales ($)
+Line 1: Product A
+Line 2: Product B
+Line 3: Product C
+
+
+GENERATE ME BAR CHARTS WITH THESE DATA
+Quarterly Sales by Product (in USD thousands)
+Quarter	Product A	Product B	Product C
+Q1	120	95	70
+Q2	135	105	80
+Q3	150	120	95
+Q4	165	135	110
+X-axis: Quarter
+Bars: Product A, Product B, Product C
+Y-axis: Sales (USD thousands)
+Chart type: Grouped (clustered) bar chart
+
+2. Web Research
+Search for me about Gradient Descent. Give me the exact link.
+
+3. Calculator
+Solve for x: x^4 + 2x^3 - 7x^2 - 8x + 12 = 0
+
+4. Sentiment Analysis
+Help me to do a sentiment analysis of these 20 sentences:
+1. I absolutely love how smooth and intuitive this application feels.
+2. The customer support team resolved my issue faster than I expected.
+3. This product works fine, but it doesn’t really stand out.
+4. I feel disappointed because the service failed at a critical moment.
+5. The update improved performance, although a few bugs still remain.
+6. I am extremely frustrated with how slow the system has become.
+7. The experience was acceptable, nothing special but not terrible either.
+8. I couldn’t be happier with the results I received today.
+9. The interface looks clean, yet navigating it can be confusing.
+10. This was a complete waste of time and effort.
+11. The delivery arrived on time as promised.
+12. I regret choosing this option over the alternatives.
+13. The features are impressive and exceed my expectations.
+14. Everything functioned exactly as described in the documentation.
+15. I feel ignored and undervalued as a customer.
+16. The service is reliable, but it lacks innovation.
+17. I am satisfied with the overall experience.
+18. The constant errors make the software unusable.
+19. It’s okay for basic tasks, but not for advanced use.
+20. This experience has restored my confidence in the brand.
+
+6. Text Summarization & Word Counter
+Morning begins long before anyone notices it. It starts in the quiet recalibration of the world, when the sky changes color so subtly that no single second can claim responsibility. Streetlights fade not because they are told to, but because their usefulness quietly expires. Somewhere, a clock ticks with confidence, convinced it is in charge of time, while time itself remains indifferent.
+
+Cities wake unevenly. Some people rise with purpose, already thinking three steps ahead, while others linger in the space between sleep and obligation, negotiating with themselves for a few more minutes of rest. Coffee is brewed, shoes are tied, notifications are checked, and identities are resumed. Each morning, millions of lives reassemble themselves from fragments left behind the night before.
+
+Work, in its many forms, fills the center of the day. For some, it is a source of pride, structure, and mastery. For others, it is merely survival disguised as routine. Screens glow with urgency, meetings repeat familiar language, and progress is measured in metrics that rarely capture human effort. Yet even within systems designed for efficiency, moments of creativity slip through, unpredictable and powerful.
+
+Time feels different depending on attention. Hours stretch when boredom takes hold and collapse when curiosity is engaged. A single conversation can reshape an entire afternoon, while an entire day can vanish without leaving a memory behind. People often underestimate how much of their lives is spent transitioning—between tasks, thoughts, places, and versions of themselves.
+
+Relationships form quietly, sometimes accidentally. Trust builds not from grand gestures, but from consistency: showing up, listening, remembering. Conflict, too, grows in small increments, often unnoticed until it becomes unavoidable. Words left unsaid gather weight, and misunderstandings gain momentum when clarity is postponed. Communication, though abundant, remains one of the most fragile human skills.
+
+Technology promises connection but demands attention as payment. Devices vibrate with significance, training minds to respond before reflect. Information flows constantly, yet understanding lags behind. In the noise, people search for signals—authenticity, relevance, meaning—hoping to recognize them before they pass by.
+
+As evening approaches, the pace softens. Light shifts again, shadows lengthen, and the world appears briefly more forgiving. Some people review their day with satisfaction, others with regret, many with exhaustion. Plans are postponed, ambitions renegotiated, and expectations lowered to something manageable. Rest becomes a priority not because everything is done, but because continuing without pause is no longer possible.
+
+Night invites reflection. It removes distractions and amplifies thoughts that daylight keeps quiet. Questions surface without immediate answers. What mattered today? What didn’t? What could have been done differently, and what must simply be accepted? In the dark, certainty feels less convincing, but honesty becomes easier.
+
+Sleep, when it comes, is not just rest but reset. The mind sorts experiences, discards noise, and preserves what it deems essential. Dreams blur logic and emotion, rehearsing fears and desires without explanation. By morning, much of this work is forgotten, yet its effects remain.
+
+And so the cycle continues—not dramatic, not insignificant, but quietly profound. Life advances not in milestones alone, but in repetitions that slowly shape identity. Meaning is not always found; sometimes it is accumulated, one ordinary day at a time.
+
+5. Translation
+Help me to translate these to Vietnamese
+Progress rarely announces itself in dramatic moments; instead, it unfolds through small, consistent actions that often go unnoticed at first. People tend to focus on outcomes, forgetting that growth is usually the result of persistence, adjustment, and patience over time. A single habit refined each day can quietly reshape skills, confidence, and perspective, even when immediate results are invisible. What feels repetitive or insignificant in the present often becomes meaningful in retrospect, revealing that lasting change is built not from sudden breakthroughs, but from steady effort sustained over time.
+
+6. URL Fetcher
+Fetch the content of this URL: https://support.google.com/websearch/answer/1696588?sjid=4251503761237645311-NC
+
+7. RAG search
+Please give me the problem 7.1 to 7.3 in searching documents chu de 7 trang 136-150 ÁP SUẤT VÀ ĐỘNG NĂNG PHÂN TỬ CHẤT KHÍ -HS - QUỐC BÌNH.pdf
+
+Please give me the steps in searching documents Backward Pass neural_network_explanation.txt
+
+Please give me the main method in searching documents PM2.5_Project.docx
