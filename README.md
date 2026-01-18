@@ -116,3 +116,16 @@ graph TD
 ### "Chart not showing"
 - **Cause**: AI returned text instead of JSON.
 - **Fix**: Fixed in backend v2.0. The system now parses mixed content automatically.
+
+## 🚀 Deployment (Hybrid Mode)
+For the best Capstone presentation (keeping Voice features working), we recommend a **Hybrid Deployment**:
+
+### 1. Frontend (Netlify)
+1.  Run `cd frontend && npm run build`.
+2.  Drag the new `dist` folder to [Netlify Drop](https://app.netlify.com/drop).
+3.  Your UI is now live on the web!
+
+### 2. Backend (Localhost)
+1.  Keep your backend running (`run_app.bat`).
+2.  The live Netlify site will connect to your local backend (as long as you are viewing it on your machine).
+3.  *Why not deploy backend?* Cloud servers (Render/Heroku) do not have microphones, so the "Server-Side Voice" feature would break.
